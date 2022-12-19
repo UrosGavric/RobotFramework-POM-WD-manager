@@ -17,5 +17,5 @@ Verify Heroku checkboxes page
     [Tags]              Functional
     [Documentation]     Verify Heroku checkboxes page
 
-    Verify default state
-    Switch checkbox state and verify
+    CheckboxesPage.Verify default state
+    CheckboxesPage.Switch checkbox state and verify
