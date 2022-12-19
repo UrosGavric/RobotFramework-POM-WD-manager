@@ -13,9 +13,9 @@ ${url}          https://the-internet.herokuapp.com/
 
 *** Test Cases ***
 
-Verify Heroku main page titles
+Verify Heroku main page titles and links
     [Tags]              Functional
-    [Documentation]     Verify Heroku main page titles
+    [Documentation]     Verify Heroku main page titles and links
 
     HomePage.Verify page titles
     HomePage.Verify links
