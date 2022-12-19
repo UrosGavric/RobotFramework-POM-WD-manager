@@ -14,9 +14,9 @@ ${url}          https://the-internet.herokuapp.com/dropdown
 
 *** Test Cases ***
 
-Verify Heroku main page titles
+Verify Heroku dropdown page
     [Tags]              Functional
-    [Documentation]     Verify Heroku main page titles
+    [Documentation]     Verify Heroku dropdown page
 
     DropdownPage.Verify default values
     DropdownPage.Select option and verify   Option 1
