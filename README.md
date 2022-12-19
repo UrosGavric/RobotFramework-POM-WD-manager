@@ -2,6 +2,12 @@
 
 Example of running tests using RobotFramework on https://the-internet.herokuapp.com/ in Python
 
+**Configuration:**
+
+Set browser in _**CommonFunctionality.robot**_ under ${browser} which will be downloaded and set using WebDriver Manager
+
+**Test run:**
+
 Test can be run by class:
 
 `robot Tests/homepage_testcases.robot` 
@@ -9,3 +15,4 @@ Test can be run by class:
 or all at once:
 
 `robot Tests/`
+

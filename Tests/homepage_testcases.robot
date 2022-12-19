@@ -8,7 +8,6 @@ Test Teardown   Finish testcase
 
 
 *** Variables ***
-${browser}      chrome
 ${url}          https://the-internet.herokuapp.com/
 
 

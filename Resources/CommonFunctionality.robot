@@ -4,7 +4,7 @@ Library     Webdriver_manager.py
 
 
 *** Variables ***
-${browser}
+${browser}  firefox
 ${url}
 
 

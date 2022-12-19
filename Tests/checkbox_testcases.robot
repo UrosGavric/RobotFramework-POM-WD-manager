@@ -7,7 +7,6 @@ Test Setup      Start browser and open url
 Test Teardown   Finish testcase
 
 *** Variables ***
-${browser}      chrome
 ${url}          https://the-internet.herokuapp.com/checkboxes
 
 
